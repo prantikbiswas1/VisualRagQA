@@ -18,7 +18,7 @@ Ensure you have **Python 3.8+** installed.
 ### Clone the Repository
 ```bash
 git clone https://github.com/your-repo/rag-question-answering.git
-cd rag-question-answering
+put all your pdfs which you want to do your question answering from
 ```
 
 ### Install Dependencies
