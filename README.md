@@ -55,9 +55,12 @@ The system follows this flow:
 │   ├── decide_to_generate.py # Decision logic for next steps
 ├── utility/
 │   ├── retriever.py          # Vector store management
+├── docs/                     # Documentation and guides
+│   ├── document.pdf          # System architecture details
 ├── main.py                   # Entry point for running the workflow
 ├── requirements.txt          # Dependencies
-└── README.md                 # This file
+└── README.md                 # Project overview and instructions
+
 ```
 
 ## Example
